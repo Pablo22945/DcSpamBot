@@ -1,4 +1,4 @@
-aiohttp
+
 pyrogram==1.4.15
 psycopg2-binary
 requests
@@ -27,3 +27,6 @@ bs4
 pymediainfo
 tracemoepy
 textblob
+Flask
+gunicorn
+aiohttp
